@@ -1,4 +1,4 @@
-宣伝
+勝手に宣伝
 AlohaSteve
 
 https://kick.com/alohasteve
