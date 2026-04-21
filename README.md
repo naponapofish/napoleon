@@ -8,11 +8,9 @@ https://kick.com/alohasteve
 https://chromewebstore.google.com/detail/kick-raid-blocker/plbneahggclbbkgihoecnbajehndkpgp
 
 
-実際に使用してみた映像
-https://youtu.be/seR_0ujncuQ
+導入方法&実際に転送/連投ツールを使ってやってみた
 
-連投ツールを使って
-https://youtu.be/1FszleJkP2w
+https://youtu.be/lb-i5U9LSF0
 
 # napoleon
 この拡張機能を入れることによって、今開いてるチャット欄とは別の配信者のチャット欄にチャットを転送できるようになります。
