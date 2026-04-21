@@ -4,8 +4,11 @@ Firefox系ブラウザには非対応
 
 # 免責事項
 AIに全任せで作らせただけで当方技術力なんて一切ないので更新の予定はありません。
+
 本拡張機能のご利用は完全自己責任でお願いいたします。
+
 万が一、本拡張機能の使用によってアカウント停止、ブラウザの不具合、その他いかなる損害やトラブルが発生しても、作者は一切の責任を負いません。
+
 その上で二次配布、改造はご自由にどうぞ
 
 # 導入（インストール）方法
@@ -29,11 +32,15 @@ Kickのページを開き、一度リロード（F5）すれば準備完了！
 他の配信見ながら別の配信者の枠で連投できるようになります。
 
 入力例1:!@hikaru0303 はよ一軍降りろえぐみ
+
 入力例2:!@AlohaSteve スティーブは一軍候補
 
 AlohaSteve
+
 https://kick.com/alohasteve
+
 220ninimaru「ミラー専用ツール作れ」
+
 https://kick.com/220ninimaru/clips/clip_01KPNVEVHH7EKY2915B5MG6WF6
 
 <img width="1024" height="574" alt="gmnaomrnpfsh" src="https://github.com/user-attachments/assets/03468a5e-6fa0-4eae-ab3d-363056d4b891" />
