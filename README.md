@@ -1,6 +1,9 @@
 使用映像
 https://youtu.be/seR_0ujncuQ
 
+連投ツールを使って
+https://youtu.be/1FszleJkP2w
+
 # napoleon
 この拡張機能を入れることによって、今開いてるチャット欄とは別の配信者のチャット欄にチャットを転送できるようになります。
 Firefox系ブラウザには非対応
