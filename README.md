@@ -43,4 +43,5 @@ https://kick.com/alohasteve
 
 https://kick.com/220ninimaru/clips/clip_01KPNVEVHH7EKY2915B5MG6WF6
 
-<img width="1024" height="574" alt="gmnaomrnpfsh" src="https://github.com/user-attachments/assets/03468a5e-6fa0-4eae-ab3d-363056d4b891" />
+<img width="2740" height="1536" alt="Gemini_Generated_Image_fpudsefpudsefpud" src="https://github.com/user-attachments/assets/1f8b099b-792a-4391-a616-32481c346793" />
+
