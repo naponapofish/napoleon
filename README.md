@@ -1,3 +1,11 @@
+宣伝
+AlohaSteve
+
+https://kick.com/alohasteve
+
+Neji_kouchou
+
+https://kick.com/neji-kouchou
 使用映像
 https://youtu.be/seR_0ujncuQ
 
@@ -42,9 +50,6 @@ Kickのページを開き、一度リロードすれば準備完了！
 
 入力例2:!@AlohaSteve スティーブは一軍候補
 
-AlohaSteve
-
-https://kick.com/alohasteve
 
 220ninimaru「ミラー専用ツール作れ」
 
