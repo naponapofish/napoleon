@@ -8,7 +8,7 @@ https://kick.com/alohasteve
 https://chromewebstore.google.com/detail/kick-raid-blocker/plbneahggclbbkgihoecnbajehndkpgp
 
 
-使用映像
+実際に使用してみた映像
 https://youtu.be/seR_0ujncuQ
 
 連投ツールを使って
