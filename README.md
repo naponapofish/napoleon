@@ -1,8 +1,9 @@
-勝手に宣伝
+勝手に宣伝1
 AlohaSteve
 
 https://kick.com/alohasteve
 
+勝手に宣伝2
 レイドブロッカー
 
 https://chromewebstore.google.com/detail/kick-raid-blocker/plbneahggclbbkgihoecnbajehndkpgp
