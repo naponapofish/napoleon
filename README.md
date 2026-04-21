@@ -3,6 +3,10 @@ AlohaSteve
 
 https://kick.com/alohasteve
 
+レイドブロッカー
+
+https://chromewebstore.google.com/detail/kick-raid-blocker/plbneahggclbbkgihoecnbajehndkpgp
+
 
 使用映像
 https://youtu.be/seR_0ujncuQ
