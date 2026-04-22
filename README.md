@@ -64,10 +64,5 @@ Kickのページを開き、一度リロードすれば準備完了！
 
 !@AlohaSteve スティーブは一軍候補
 
-
-220ninimaru「ミラー専用ツール作れ」
-
-https://kick.com/220ninimaru/clips/clip_01KPNVEVHH7EKY2915B5MG6WF6
-
 <img width="2740" height="1536" alt="Gemini_Generated_Image_fpudsefpudsefpud" src="https://github.com/user-attachments/assets/1f8b099b-792a-4391-a616-32481c346793" />
 
