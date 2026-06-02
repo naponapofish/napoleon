@@ -1,14 +1,3 @@
-勝手に宣伝1
-AlohaSteve
-
-https://kick.com/alohasteve
-
-勝手に宣伝2
-レイドブロッカー
-
-https://chromewebstore.google.com/detail/kick-raid-blocker/plbneahggclbbkgihoecnbajehndkpgp
-
-
 導入方法&実際に転送/連投ツールを使ってやってみた
 
 https://youtu.be/uQyugqO3IxQ
